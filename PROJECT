@@ -1,0 +1,7 @@
+domain: fyuan.io
+repo: github.com/fyuan1316/events
+resources:
+- group: ml
+  kind: SourceWatcher
+  version: v1alpha1
+version: "2"

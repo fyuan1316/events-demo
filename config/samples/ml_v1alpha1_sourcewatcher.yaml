@@ -1,0 +1,7 @@
+apiVersion: ml.fyuan.io/v1alpha1
+kind: SourceWatcher
+metadata:
+  name: sourcewatcher-sample
+spec:
+  # Add fields here
+  foo: bar
